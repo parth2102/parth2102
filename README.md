@@ -1,11 +1,11 @@
 ### Hi there, I'm Parth Patel - aka [Helix_Ninja][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://parthpatel2102.wixsite.com/helix)
 [![Twitter Follow](https://twitter.com/ParthPatel2102)](https://twitter.com/ParthPatel2102)
 
 ## I'm a Developer, CTF Player and Security Researcher!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [Website Vulnerability Scanner][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://parthpatel2102.wixsite.com/helix" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -58,7 +58,7 @@
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
  YOUTUBE:END 
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://parthpatel2102.wixsite.com/helix)
  -->
 ---
 
@@ -72,7 +72,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://parthpatel2102.wixsite.com/helix)
 
 ---
 
