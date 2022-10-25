@@ -5,9 +5,9 @@
 
 ## I'm a Developer, CTF Player and Security Researcher!
 
-- 🔭 I’m currently working on a [Website Vulnerability Scanner][website]!
+- 🔭 I’m currently working on a [Website Vulnerability Scanner] & [Internet Mapping Project]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: CCNA, CEH, CCNP
 - ⚡ Fun fact: I love to swim and watch a lot of TV Shows
 
 
